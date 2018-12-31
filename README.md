@@ -1,2 +1,0 @@
-# Detach
-Detach Email Attachments
